@@ -75,34 +75,8 @@
     .btn-foryou{font-size: 15px;}
     .btn-following{font-size: 15px;}
     .login-img{padding-top: 7px;}
-    .cuadricula{height: 850px;}
+    .cuadricula{height: 1200px;}
 }
-
-@media(max-width:720px){
-    .galery-item:nth-child(1){width:150px; height: 170px;}
-    .galery-item:nth-child(2){width:150px; height: 220px;}
-    .galery-item:nth-child(3){width:150px; height: 150px;}
-    .galery-item:nth-child(4){width:150px; height: 220px;} 
-    .galery-item:nth-child(5){width:150px; height: 190px; margin-top: 20px;}
-    .galery-item:nth-child(6){width:150px; height: 190px; margin-top: 70px;}
-    .galery-item:nth-child(7){width:150px; height: 150px; margin-top: 0px;}
-    .galery-item:nth-child(8){width:150px; height: 150px; margin-top: 70px;}
-    .galery-item:nth-child(9){width:150px; height: 240px; margin-top: 60px;}
-    .galery-item:nth-child(10){width:150px; height: 180px; margin-top: 110px;}
-    .galery-item:nth-child(11){width:150px; height: 300px; margin-top: 0px;}
-    .galery-item:nth-child(12){width:150px; height: 230px; margin-top: 70px;}
-    .cuadricula{padding-left: 30px; padding-right: 0px;}
-    .n1{font-size: 19px;border-right: none;}
-    .fa-magnifying-glass{font-size: 13px;margin-left: 5px;}
-    .busqueda{font-size: 13px; margin-left: 10px;}
-    .nav{height: 45px;}
-    .nav-down{padding-top: 0px;}
-    .btn-foryou{font-size: 15px;}
-    .btn-following{font-size: 15px;}
-    .login-img{padding-top: 7px;}
-    .cuadricula{height: 850px;}
-}
-
 
 
 @media(max-width:480px){
