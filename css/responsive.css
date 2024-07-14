@@ -1,0 +1,96 @@
+@media(max-width:1440px){
+    .galery-item:nth-child(1){width:280px;}
+    .galery-item:nth-child(2){width:280px;}
+    .galery-item:nth-child(3){width:280px;}
+    .galery-item:nth-child(4){width:280px;} 
+    .galery-item:nth-child(5){width:280px;}
+    .galery-item:nth-child(6){width:280px;}
+    .galery-item:nth-child(7){width:280px;}
+    .galery-item:nth-child(8){width:280px;}
+    .galery-item:nth-child(9){width:280px;}
+    .galery-item:nth-child(10){width:280px;}
+    .galery-item:nth-child(11){width:280px;}
+    .galery-item:nth-child(12){width:280px;}
+    nav{margin-left: 185px;}
+}
+
+@media(max-width:1280px){
+    .galery-item:nth-child(1){width:250px;}
+    .galery-item:nth-child(2){width:250px;}
+    .galery-item:nth-child(3){width:250px;}
+    .galery-item:nth-child(4){width:250px;} 
+    .galery-item:nth-child(5){width:250px;}
+    .galery-item:nth-child(6){width:250px;}
+    .galery-item:nth-child(7){width:250px;}
+    .galery-item:nth-child(8){width:250px;}
+    .galery-item:nth-child(9){width:250px;}
+    .galery-item:nth-child(10){width:250px;}
+    .galery-item:nth-child(11){width:250px;}
+    .galery-item:nth-child(12){width:250px;}
+    .cuadricula{padding-left: 120px;}
+    .n1{padding-left: 40px;}
+    nav{margin-left: 180px;}
+}
+
+@media(max-width:1024px){
+    .galery-item:nth-child(1){width:200px;}
+    .galery-item:nth-child(2){width:200px;}
+    .galery-item:nth-child(3){width:200px;}
+    .galery-item:nth-child(4){width:200px;} 
+    .galery-item:nth-child(5){width:200px;}
+    .galery-item:nth-child(6){width:200px;}
+    .galery-item:nth-child(7){width:200px;}
+    .galery-item:nth-child(8){width:200px;}
+    .galery-item:nth-child(9){width:200px;}
+    .galery-item:nth-child(10){width:200px;}
+    .galery-item:nth-child(11){width:200px;}
+    .galery-item:nth-child(12){width:200px;}
+    .cuadricula{padding-left: 90px;}
+    nav{margin-left: 160px;}
+    .n1{padding-left: 25px;}
+    .fa-magnifying-glass{margin-left: 20px;}
+    .ip{margin-left: 25px;}
+    .busqueda{font-size: 15px;}
+}
+
+@media(max-width:768px){
+    .galery-item:nth-child(1){width:150px; height: 170px;}
+    .galery-item:nth-child(2){width:150px; height: 220px;}
+    .galery-item:nth-child(3){width:150px; height: 150px;}
+    .galery-item:nth-child(4){width:150px; height: 220px;} 
+    .galery-item:nth-child(5){width:150px; height: 190px; margin-top: 20px;}
+    .galery-item:nth-child(6){width:150px; height: 190px; margin-top: 70px;}
+    .galery-item:nth-child(7){width:150px; height: 150px; margin-top: 0px;}
+    .galery-item:nth-child(8){width:150px; height: 150px; margin-top: 70px;}
+    .galery-item:nth-child(9){width:150px; height: 240px; margin-top: 60px;}
+    .galery-item:nth-child(10){width:150px; height: 180px; margin-top: 110px;}
+    .galery-item:nth-child(11){width:150px; height: 300px; margin-top: 0px;}
+    .galery-item:nth-child(12){width:150px; height: 230px; margin-top: 70px;}
+    .cuadricula{padding-left: 70px;}
+    .n1{font-size: 19px;border-right: none;}
+    .fa-magnifying-glass{font-size: 13px;margin-left: 5px;}
+    .busqueda{font-size: 13px; margin-left: 10px;}
+    .nav{height: 45px;}
+    .nav-down{padding-top: 0px;}
+    .btn-foryou{font-size: 15px;}
+    .btn-following{font-size: 15px;}
+    .login-img{padding-top: 7px;}
+    .cuadricula{height: 850px;}
+}
+
+@media(max-width:480px){
+    .galery-item:nth-child(1){width:90px; height: 170px;}
+    .galery-item:nth-child(2){width:90px; height: 220px;}
+    .galery-item:nth-child(3){width:90px; height: 150px;}
+    .galery-item:nth-child(4){width:90px; height: 220px;} 
+    .galery-item:nth-child(5){width:90px; height: 190px; margin-top: 20px;}
+    .galery-item:nth-child(6){width:90px; height: 190px; margin-top: 70px;}
+    .galery-item:nth-child(7){width:90px; height: 150px; margin-top: 0px;}
+    .galery-item:nth-child(8){width:90px; height: 150px; margin-top: 70px;}
+    .galery-item:nth-child(9){width:90px; height: 240px; margin-top: 60px;}
+    .galery-item:nth-child(10){width:90px; height: 180px; margin-top: 110px;}
+    .galery-item:nth-child(11){width:90px; height: 300px; margin-top: 0px;}
+    .galery-item:nth-child(12){width:90px; height: 230px; margin-top: 70px;}
+    .cuadricula{padding-left: 40px; padding-right: 40px;}
+    .nav-down nav{margin-left: 145px;}
+}
